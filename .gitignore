@@ -32,3 +32,21 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+.DS_Store
+
+Assets/AmplifyShaderEditor*
+
+Assets/Colorful FX*
+
+Assets/ColorGradingPack*
+
+Assets/Ludiq*
+
+/Assets/Plugins*
+
+/Assets/Republique Assets*
+
+/Assets/Sonic Ether*
+
+/Assets/VisualizerStudio*
