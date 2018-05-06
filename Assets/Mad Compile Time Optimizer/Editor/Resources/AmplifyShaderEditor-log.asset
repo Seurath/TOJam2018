@@ -1,0 +1,1261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 342976093, guid: 5eb872180e6624b46b2fa8b2229cc7ac, type: 3}
+  m_Name: AmplifyShaderEditor-log
+  m_EditorClassIdentifier: 
+  ruleName: AmplifyShaderEditor
+  rootDirectoryGUID: 44ce14d2669aa4dbc8f832a734169439
+  rules:
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldDestroyBall.cs
+    sourceGUID: 755fa0840b87a459d8fb6b30550bee6b
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldDestroyBall.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldImpactDetection.cs
+    sourceGUID: e11d4243f9e2848db928a4b55cb026d5
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldImpactDetection.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldShootBall.cs
+    sourceGUID: 869dc0621bfc842d6bb38d58e3025f3a
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldShootBall.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/highlightAnimated.cs
+    sourceGUID: 431c4242524eb4d13bf66d069874e9d0
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Community/HighlightAnimated/highlightAnimated.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancingExample.cs
+    sourceGUID: 48e1dd69882f26c48881a90ca1866c40
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancingExample.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Official/Smear/SimpleMoveExample.cs
+    sourceGUID: 5cd5adaa55e34f642a4183f01eac6eee
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Official/Smear/SimpleMoveExample.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.cs
+    sourceGUID: 0e2d16879b067364792dfabbde4d7d76
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Official/Smear/Smear.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/PostProcessExample.cs
+    sourceGUID: e9de35699fb5494478bb9daa2f4eec76
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/PostProcessExample.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpriteMaskController.cs
+    sourceGUID: 96bbfa3e74d5e6d42b817b7db69f749f
+    targetPath: Assets/Plugins/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpriteMaskController.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Constants.cs
+    sourceGUID: d833dd0968f913f449477da6bcd56b48
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Constants.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/DoCreateFunction.cs
+    sourceGUID: 3f2c950b0ed192943b7484f6b551965f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/DoCreateFunction.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/EditorOptions.cs
+    sourceGUID: 44cb06bc7bfe6e84aa8b5e8b702eb2dd
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/EditorOptions.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/PreMadeShaders.cs
+    sourceGUID: b4e28cbcd41f3b04ca36fc1b34d2c10f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/PreMadeShaders.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Actions/ActionData.cs
+    sourceGUID: 29204f353101f46439a93f1c503d3197
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Actions/ActionData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Actions/ActionLog.cs
+    sourceGUID: bc089a69595d8994cb89946a919517c2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Actions/ActionLog.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Actions/ActionSequence.cs
+    sourceGUID: 43bd963fa46ee9c4680dacff1d8dc0b9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Actions/ActionSequence.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/EditableIf.cs
+    sourceGUID: 7a5504a2b7d04a846978416748dc6e0a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/CustomDrawers/EditableIf.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Graphs/NodeGrid.cs
+    sourceGUID: 6344917ce0eed6b43840632b98a2ed57
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Graphs/NodeGrid.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Graphs/ParentGraph.cs
+    sourceGUID: 0b814c2a3cbebc047a566a92ed9d4340
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Graphs/ParentGraph.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderEditorWindow.cs
+    sourceGUID: c8bcac0d66f920e49803925a85beb0ed
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderEditorWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderFunction.cs
+    sourceGUID: 78b2425a2284af743826c689403a4924
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderFunction.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderFunctionEditor.cs
+    sourceGUID: 8b2d6d1320661374db53aeb8057312b2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/AmplifyShaderFunctionEditor.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/AutoPanData.cs
+    sourceGUID: 711db07e8265cb740940568c4bc7345f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/AutoPanData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Clipboard.cs
+    sourceGUID: 8850a8c4f3ca99f42bbf602c671ffb7f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Clipboard.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ConfirmationWindow.cs
+    sourceGUID: 291cb40a04f835a4d89037cf3053c6a3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/ConfirmationWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ConsoleLogWindow.cs
+    sourceGUID: ed706353a579cbb46b300406107108b1
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/ConsoleLogWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ContextMenuItem.cs
+    sourceGUID: 417f409230c530b468b8ab67dd6e3b8b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/ContextMenuItem.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/CustomStylesContainer.cs
+    sourceGUID: 79d0d783b532b474192b191547bee1c1
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/CustomStylesContainer.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/DebugConsoleWindow.cs
+    sourceGUID: 52308890136cd7746a5a073c9be8f028
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/DebugConsoleWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/DragAndDropTool.cs
+    sourceGUID: 41c9bd09aea1377459c7e62910711c22
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/DragAndDropTool.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/DuplicatePreventionBuffer.cs
+    sourceGUID: a4cfbb4204c63ca4e8f7cec73f6b3ef8
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/DuplicatePreventionBuffer.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/GraphContextMenu.cs
+    sourceGUID: 5c34fc95a1ddd7d42bc74151061035f4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/GraphContextMenu.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/MenuParent.cs
+    sourceGUID: 5d535d3799a3ef547aea607fdc8b947b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/MenuParent.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/NodeParametersWindow.cs
+    sourceGUID: d09f21096aa7c9f438e91a6e7f2621fb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/NodeParametersWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/NodeWireReferencesUtils.cs
+    sourceGUID: bfbc736093c900c418a7668e3003663a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/NodeWireReferencesUtils.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/PortLegendInfo.cs
+    sourceGUID: 20dad8f4196f0e643a9c56d1202e74dc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/PortLegendInfo.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/SceneSaveCallback.cs
+    sourceGUID: 708e90c98affcb04aa2fcfedf4329a7c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/SceneSaveCallback.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ShaderEditorModeWindow.cs
+    sourceGUID: 672d96e3a4f68d44f9456d2fc53d4d73
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/ShaderEditorModeWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/ShaderLibrary.cs
+    sourceGUID: cbdd03f297692584391b9dc0625a80ed
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/ShaderLibrary.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/ContextPalette.cs
+    sourceGUID: 15597b146a1fc154abd63ac75cffb73f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/ContextPalette.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PaletteParent.cs
+    sourceGUID: df4c2f840dca60a4cb118325ce2febfa
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PaletteParent.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PalettePopUp.cs
+    sourceGUID: bc4f137f15efe1d42b7bcbf984ec1545
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PalettePopUp.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PaletteWindow.cs
+    sourceGUID: 63408b264ef8cb346a5ce9e559a5ed22
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Palette/PaletteWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButton.cs
+    sourceGUID: 890f4ed5c9f62af43bda6584705fa0be
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButton.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButtonParent.cs
+    sourceGUID: a3bf3644c2c2fbb4fa0dd8b86effc6e1
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButtonParent.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButtonSep.cs
+    sourceGUID: b4c65a9d96791c34eb587cea9662161f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsMenuButtonSep.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsWindow.cs
+    sourceGUID: b1c1f3bedf849cb41a1648bf895bc0f7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Menu/Tools/ToolsWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackColor.cs
+    sourceGUID: 8c6dccc523e2ad440a82edd582b84a45
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackColor.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackFloat.cs
+    sourceGUID: a957e66c7a41d6848966d526c9687347
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackFloat.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackInt.cs
+    sourceGUID: 09c28ab321caf3b47839606e37d3cdd2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackInt.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackMatrix4x4.cs
+    sourceGUID: 48af68670bdba9147b4ed55138e4edf6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackMatrix4x4.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackString.cs
+    sourceGUID: cc2e25b7c55e9284699ccad75e79a075
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackString.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackTexture.cs
+    sourceGUID: 309e413cfa89510429c67fa82c557da7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackTexture.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVariable.cs
+    sourceGUID: ec850a4093c249d449f22e0483040b9c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVariable.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector2.cs
+    sourceGUID: ab3a976b3cb79ad41986d2f7d4439642
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector2.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector3.cs
+    sourceGUID: 0e681455d27d2264fbc2683a1510df2c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector3.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector4.cs
+    sourceGUID: 4e23c25f035ba604ea999f214c0a7833
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/FallbackVector4.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Native/IFallbackVars.cs
+    sourceGUID: 8b0dda023474c6e41a39c36e48af72b2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Native/IFallbackVars.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/CommentaryNode.cs
+    sourceGUID: 08f1d9c1d8cbe5841a6429d565096eab
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/CommentaryNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/CustomAddNode.cs
+    sourceGUID: 6fdecc48f5be618428240490565e9d8b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/CustomAddNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/CustomNode.cs
+    sourceGUID: c89fd369755de3e49a669e8e5daa8c2f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/CustomNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/DrawInfo.cs
+    sourceGUID: 36f40ed0b172d8f45810b3f6b8e2243d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/DrawInfo.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/DynamicTypeNode.cs
+    sourceGUID: 5b60c440b5db81c4d9df9c048aa22b48
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/DynamicTypeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ISignalGenerator.cs
+    sourceGUID: cfeab503d3318794ea1af322505320ef
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ISignalGenerator.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeAttributes.cs
+    sourceGUID: ec3cfdc3a4d1a7a4cb24c1c079e1750a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeAttributes.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeRestrictions.cs
+    sourceGUID: bd1aff8475f370d4380918491184aef5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeRestrictions.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeUsageRegister.cs
+    sourceGUID: 2aa06a21e7f64094c91da5dd60ef35cf
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeUsageRegister.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeUtils.cs
+    sourceGUID: 9eb57a68790e6e343affe131e8a0f860
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/NodeUtils.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ParentNode.cs
+    sourceGUID: 33e0374f361d5c642a257b9957e4cfa0
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ParentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ReordenatorNode.cs
+    sourceGUID: 91aad2b9cfaf3954c8c450c32d218981
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ReordenatorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SignalGeneratorNode.cs
+    sourceGUID: 2f92560b009046f4a86504e682834405
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SignalGeneratorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/UndoParentNode.cs
+    sourceGUID: bcc69b2f388d45f43a9157ce814b5aae
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/UndoParentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ColorNode.cs
+    sourceGUID: 4b99bcf4cd965c648bbbc1de0d1b152a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ColorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/GlobalArrayNode.cs
+    sourceGUID: 833b18e1479dbd24c80c5b990e16e2bb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/GlobalArrayNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/IntNode.cs
+    sourceGUID: 86df2da3da3b1eb4493b968b47030b17
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/IntNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Matrix3X3Node.cs
+    sourceGUID: 01e5a5829caac674fa819ed229de31b6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Matrix3X3Node.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Matrix4X4Node.cs
+    sourceGUID: 4fa5db614b9379b4da27edafa0a8f4e9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Matrix4X4Node.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/MatrixParentNode.cs
+    sourceGUID: d31dc25864c509a4f967e32079a27d6f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/MatrixParentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/PiNode.cs
+    sourceGUID: 7a8a03953b97a594b81b2fb71d4a57ec
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/PiNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/PropertyNode.cs
+    sourceGUID: 5bbfd66571b12f84983b398231271694
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/PropertyNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/RangedFloatNode.cs
+    sourceGUID: e81453c5ad3b8224db874b56bf00cad2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/RangedFloatNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/StaticSwitch.cs
+    sourceGUID: b1d1a233ea65ccd478fb6caf4327da48
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/StaticSwitch.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/TauNode.cs
+    sourceGUID: 1a6ded4f5e42f6d4684a6131a3cf4d33
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/TauNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/TextureArrayNode.cs
+    sourceGUID: 3c5be6f9c03445d4fb70955f594877dc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/TextureArrayNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector2Node.cs
+    sourceGUID: 6ca8f5d67cf4c5f428a6dd646099897c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector2Node.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector3Node.cs
+    sourceGUID: 943f4b4fc1fa5214b8934bf4fb76474b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector3Node.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector4Node.cs
+    sourceGUID: 3bc3c79c7cc57df49bedb9d9b64b0bea
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/Vector4Node.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ConstVecShaderVariable.cs
+    sourceGUID: 9102c0b554fd5ad4785acf870dcc17eb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ConstVecShaderVariable.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ConstantShaderVariable.cs
+    sourceGUID: 266391c3c4308014e9ce246e5484b917
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ConstantShaderVariable.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ShaderVariablesNode.cs
+    sourceGUID: 1eb723e6ceff9a345a9dbfe04aa3dc11
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/ShaderVariablesNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/CameraProjectionNode.cs
+    sourceGUID: f776bdd36b750304c8e0de8ee1f31fc0
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/CameraProjectionNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/CameraWorldClipPlanes.cs
+    sourceGUID: e5a9a010f1c8dda449c8ca7ee9e25869
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/CameraWorldClipPlanes.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/OrthoParams.cs
+    sourceGUID: f9431cdf8e81c1d4f902b3fa7d04f7ac
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/OrthoParams.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ProjectionParams.cs
+    sourceGUID: ba1ca8bace2c2dd4dafac6f73f4dfb1b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ProjectionParams.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ScreenParams.cs
+    sourceGUID: 2e593f23857d59643b5b5f6dd6264e1b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ScreenParams.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/WorldSpaceCameraPos.cs
+    sourceGUID: 972d92a6008896f4292a61726e18f667
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/WorldSpaceCameraPos.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ZBufferParams.cs
+    sourceGUID: 2765a41106f478f4982e859b978bdec4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/CameraAndScreen/ZBufferParams.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/FogAndAmbient/FogAndAmbientColorsNode.cs
+    sourceGUID: e2bdfc2fa6fcd0640b01a8b7448a1a11
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/FogAndAmbient/FogAndAmbientColorsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/FogAndAmbient/FogParamsNode.cs
+    sourceGUID: a3d8c31159e07bc419a7484ab5e894ed
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/FogAndAmbient/FogParamsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/CustomStandardSurface.cs
+    sourceGUID: 78916999fd7bc3c4e9767bc9cf0698c0
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/CustomStandardSurface.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/IndirectDiffuseLighting.cs
+    sourceGUID: 11bf17b0757d57c47add2eb50c62c75e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/IndirectDiffuseLighting.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/IndirectSpecularLight.cs
+    sourceGUID: 0820850e74009954188ff84e2f5cc4f2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/IndirectSpecularLight.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/LightAttenuation.cs
+    sourceGUID: 4e205b44d56609f459ffc558febe2792
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/LightAttenuation.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/LightColorNode.cs
+    sourceGUID: 275270020c577924caf04492f73b2ea6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/LightColorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/WorldSpaceLightPos.cs
+    sourceGUID: db94d973647dae9488d3ef5ee2fd95a4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Lighting/WorldSpaceLightPos.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/CosTime.cs
+    sourceGUID: 447e504f2ca5aaf4bbf0fdbce33596bc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/CosTime.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/DeltaTime.cs
+    sourceGUID: 3ddde7ed1ab4f8044a9a6aa3891f5ca4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/DeltaTime.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/SimpleTimeNode.cs
+    sourceGUID: f36e4491ee33fe74fa51cfb5ad450c6e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/SimpleTimeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/SinTimeNode.cs
+    sourceGUID: 796acd44fcf330e4e921855630007b9b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/SinTimeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/TimeNode.cs
+    sourceGUID: d8c6b7bfb7784e14d8708ab6fb981268
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Time/TimeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/CameraToWorldMatrix.cs
+    sourceGUID: 6accfe0f350cf064dae07041fe90446b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/CameraToWorldMatrix.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseTranspMVMatrixNode.cs
+    sourceGUID: 3a71f1e560487aa4c8484c4153941884
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseTranspMVMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseViewMatrixNode.cs
+    sourceGUID: dd0c1c252c062184e9ad592b91e7fcd2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/InverseViewMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MMatrixNode.cs
+    sourceGUID: 503a386043991354eaca2410683d836a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MVMatrixNode.cs
+    sourceGUID: 30c7936db4e6fe5488076d799841f857
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MVMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MVPMatrixNode.cs
+    sourceGUID: 74e00fb3d8e161f498c078795184bae4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/MVPMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ObjectToWorldMatrixNode.cs
+    sourceGUID: a0c0180a327eba54c832fbb695dd282f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ObjectToWorldMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ProjectionMatrixNode.cs
+    sourceGUID: 008fd07cf3f9a7140a9e23be43733f7c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ProjectionMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture0MatrixNode.cs
+    sourceGUID: f57a1d05f7a9c5847912566ff1605c6d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture0MatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture1MatrixNode.cs
+    sourceGUID: 9ef360a7c6005ad479d7a3e6db1d32f4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture1MatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture2MatrixNode.cs
+    sourceGUID: 6cf4950dda0f6e6438ace404fbef19a7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture2MatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture3MatrixNode.cs
+    sourceGUID: 02a9fb7a3a104974e941f4109567b97f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/Texture3MatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransformVariables.cs
+    sourceGUID: 04aad5172ee1d4d4795e20bfae0ff64d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransformVariables.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransposeMVMatrix.cs
+    sourceGUID: 5762b195353d629448631bfb15fb8372
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/TransposeMVMatrix.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityProjectorClipMatrixNode.cs
+    sourceGUID: 6095e3e4dc186f146bc109813901ccc8
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityProjectorClipMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityProjectorMatrixNode.cs
+    sourceGUID: c3efd02b48473d94b92302654b671ddc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityProjectorMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityScaleMatrix.cs
+    sourceGUID: 28a04286716e19f4aa58954888374428
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/UnityScaleMatrix.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ViewMatrixNode.cs
+    sourceGUID: 5aa75cc5e6044a44a9a4439eac1d948b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ViewMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ViewProjectionMatrixNode.cs
+    sourceGUID: fe26c99932382e047aebc05b7e67a3d0
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/ViewProjectionMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToCameraMatrix.cs
+    sourceGUID: 584bea5554dc1b64c8965d8fcfc54e23
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToCameraMatrix.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToObjectMatrix.cs
+    sourceGUID: d9e2a5077cc29de439d5c845eac35a04
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToObjectMatrix.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToTangentMatrix.cs
+    sourceGUID: b598d9ebc2d7be44a97270732f55f9bc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Transform/WorldToTangentMatrix.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/ColorSpaceDouble.cs
+    sourceGUID: 7d1204234983b3c4499da752961185be
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/ColorSpaceDouble.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/FaceVariableNode.cs
+    sourceGUID: 4b4a6f07436b05a4cbc2559e4e704000
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/FaceVariableNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/LODFadeNode.cs
+    sourceGUID: f96cf34c2936c96458403e9cf75e8e10
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/LODFadeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/SwitchByFaceNode.cs
+    sourceGUID: b0464d8b27caa7d4d8fa5d1828934da8
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/SwitchByFaceNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/WorldTransformParams.cs
+    sourceGUID: aec376443deca354789bc36ba18af898
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Constants/ShaderVariables/Various/WorldTransformParams.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/CameraDepthFade.cs
+    sourceGUID: 96f38a9f14906ca49b505b8e305c37ec
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/CameraDepthFade.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ComputeGrabScreenPosHlpNode.cs
+    sourceGUID: 5fe7f4be962b9e8459eb156503b99d41
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ComputeGrabScreenPosHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ComputeScreenPosHlpNode.cs
+    sourceGUID: c220606396d6e6048a901f217be1435e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ComputeScreenPosHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeDepthNormalNode.cs
+    sourceGUID: 1cc4e3c718669d54c97614ac6abcfaff
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeDepthNormalNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeFloatRGBAHlpNode.cs
+    sourceGUID: 2c5479ff48207cf43a308ec9f110fa9f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeFloatRGBAHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeFloatRGHlpNode.cs
+    sourceGUID: a965812ada2b83343a1f511273fcfc52
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeFloatRGHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeLightmapHlpNode.cs
+    sourceGUID: b3d1879d1e402b34f98b8e8cdf94d719
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeLightmapHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeViewNormalStereoHlpNode.cs
+    sourceGUID: 94df47461b7e6244eaf92b0dab7cc7ee
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DecodeViewNormalStereoHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DepthFade.cs
+    sourceGUID: 279c74ce44e24204d803be6ec743c290
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DepthFade.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DitheringNode.cs
+    sourceGUID: 284ebed5f88c13e45bc331b2df93aa75
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/DitheringNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeDepthNormalNode.cs
+    sourceGUID: cabbbe25e4b26b54c84e27007c08a7dd
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeDepthNormalNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeFloatRGBAHlpNode.cs
+    sourceGUID: 6532496dc1791d94cbb46004000bda61
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeFloatRGBAHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeFloatRGHlpNode.cs
+    sourceGUID: d8bce5e7063ac6b4d93aaf15f7fd1b10
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeFloatRGHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeViewNormalStereoHlpNode.cs
+    sourceGUID: 17511ec398441ac479a2dd77d2531837
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/EncodeViewNormalStereoHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/GammaToLinearNode.cs
+    sourceGUID: cb2775ac410d0134c85b7f1ac0a0399f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/GammaToLinearNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/HelperParentNode.cs
+    sourceGUID: 0eba64bdadd330743894a0623677cb83
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/HelperParentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/LinearToGammaNode.cs
+    sourceGUID: a5b8a474628aeca4e86b1599f0b26ebc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/LinearToGammaNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/LuminanceHlpNode.cs
+    sourceGUID: e8567c2e3eb634a428819fbdfbff110f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/LuminanceHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ObjSpaceLightDirHlpNode.cs
+    sourceGUID: 0da9baf35c74c7e468cbe50c3d23ccf0
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ObjSpaceLightDirHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ObjSpaceViewDirHlpNode.cs
+    sourceGUID: 590b8e54b63ad344f8d8c372e4fc5ed5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ObjSpaceViewDirHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxMappingNode.cs
+    sourceGUID: 96d8f50a7481d5247b16cb16c053d5f6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxMappingNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxOcclusionMappingNode.cs
+    sourceGUID: b2350150f3f2a0443827ca8925d5e759
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxOcclusionMappingNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxOffsetHlpNode.cs
+    sourceGUID: 83b7d6fe57585b74d80c429aef719200
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ParallaxOffsetHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ShadeVertexLightsHlpNode.cs
+    sourceGUID: 74f44334b702bce4ba8e2681dc80fe3c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/ShadeVertexLightsHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/SurfaceDepthNode.cs
+    sourceGUID: d3b0855152b8c5d478f236423cfb1959
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/SurfaceDepthNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/TriplanarNode.cs
+    sourceGUID: 396e5bf33f08d3a42a19d7b161f573f2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/TriplanarNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/UnityObjToClipPosHlpNode.cs
+    sourceGUID: c01e190d996825f42bdc81e1fab5e897
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/UnityObjToClipPosHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/UnityObjToViewPosHlpNode.cs
+    sourceGUID: 5f35cf284cf7d2b47be5a32426fc7a77
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/UnityObjToViewPosHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/WorldSpaceLightDirHlpNode.cs
+    sourceGUID: 2134a58fb8235524d84046a051bce6b5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/WorldSpaceLightDirHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/WorldSpaceViewDirHlpNode.cs
+    sourceGUID: 61d7064bd5523634496fa412627603d7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/HelperFuncs/WorldSpaceViewDirHlpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/BlendOpsNode.cs
+    sourceGUID: 09fb0867c2a616c488bad8929f4f7ad7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/BlendOpsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/DesaturateOpNode.cs
+    sourceGUID: eddae0a124877fc47b28ae8853286174
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/DesaturateOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/HSVToRGBNode.cs
+    sourceGUID: 3d992a68cff329a4a9bd1deb999fe691
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/HSVToRGBNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/NoiseGeneratorNode.cs
+    sourceGUID: 6b82a8d1dffe4204fa03a09e2fe783b3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/NoiseGeneratorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/PosterizeNode.cs
+    sourceGUID: 7dc4667cd643835489312daa244a03b9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/PosterizeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/RGBToHSVNode.cs
+    sourceGUID: 4d24b838adbc80d4cb63e3fc4f5a1c79
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/RGBToHSVNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/SimpleContrastOpNode.cs
+    sourceGUID: 3f49defa61805f948a04775d391e507a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/SimpleContrastOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/SimplexNoiseNode.cs
+    sourceGUID: 3f888e3dadb5df94199547ab13cb74d2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/SimplexNoiseNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/TFHCGrayscale.cs
+    sourceGUID: 32d7b01a9f453d448abf3685a35c4a19
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/ImageEffects/TFHCGrayscale.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/ConditionalIfNode.cs
+    sourceGUID: 3deb719c04d269e49bcd2a2c365da6fb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/ConditionalIfNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/KeywordSwitchNode.cs
+    sourceGUID: 04eb50f45d1416e4bb61902a49f06d58
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/KeywordSwitchNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareEqual.cs
+    sourceGUID: d6d04219b3c5c5a4282aa9a763b9ad3c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareEqual.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareGreater.cs
+    sourceGUID: ff04934859005cd41ac644f2a9349e8b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareGreater.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareGreaterEqual.cs
+    sourceGUID: b2792c240940c3349bdef401f5683f70
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareGreaterEqual.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareLower.cs
+    sourceGUID: 1a70dcf76fe65a64ca70400d6d08563d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareLower.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareLowerEqual.cs
+    sourceGUID: e1e66ddf48770134b806dd1f397e4ac3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareLowerEqual.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareNotEqual.cs
+    sourceGUID: 48f885e2f5fa775409b9f50be6aaf80a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareNotEqual.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareWithRange.cs
+    sourceGUID: e7d30ad11b781804ebd54834781a32d9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCCompareWithRange.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCIf.cs
+    sourceGUID: 1a3d561a45c21114c99f52c5432b25e9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCIf.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCStub.cs
+    sourceGUID: 67238b98f61049c45b496af625863edf
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/LogicalOperators/TFHCStub.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalDefinesHelper.cs
+    sourceGUID: 0801a5994efb46142ad8dcc0fe3c47f8
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalDefinesHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalIncludesHelper.cs
+    sourceGUID: 74ff3d342e013f64198aaf767e623962
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalIncludesHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalPragmasHelper.cs
+    sourceGUID: 3153b4d10effd174988d75b84b12d281
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/AdditionalPragmasHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BillboardOpHelper.cs
+    sourceGUID: 837b906a268babc49ac733573c5b3394
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BillboardOpHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BlendOpsHelper.cs
+    sourceGUID: 8b59649a5f829e24cb4de8c1a715f8b4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/BlendOpsHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/CodeGenerationData.cs
+    sourceGUID: 7a47d8101acb2e94d95016b69a1c2e41
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/CodeGenerationData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/ColorMaskHelper.cs
+    sourceGUID: bf65efd881afd1b4cbd2b27f3f17251b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/ColorMaskHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/CustomTagsHelper.cs
+    sourceGUID: 5ed32be99aefda24483c9e3499a5cd23
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/CustomTagsHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/DependenciesHelper.cs
+    sourceGUID: 2daff2983fe91ac43953017a8be984a7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/DependenciesHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FallbackPickerHelper.cs
+    sourceGUID: cd5a03cee1255ba438e2062d215b70b6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FallbackPickerHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionInput.cs
+    sourceGUID: 64064ea01705e084cbe00a3bbeef2c3d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionInput.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionNode.cs
+    sourceGUID: 7b3de46feda5b0f4ea58c852c4a521a9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionOutput.cs
+    sourceGUID: 6293b1f56d13d6c4ca6a8e2a8099cca9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionOutput.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionSubtitle.cs
+    sourceGUID: 97d5e0cd26200a64fa9d127599406008
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionSubtitle.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionSwitch.cs
+    sourceGUID: 2bd66b9ffd0acf84ab46c9f83300495c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/FunctionSwitch.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/LogNode.cs
+    sourceGUID: 3b0e734d4c354c74999e20ce054628d2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/LogNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/MasterNode.cs
+    sourceGUID: 7fc2c839ab9f3a045877b59493c51502
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/MasterNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/MasterNodeDataCollector.cs
+    sourceGUID: d026d775ff431f34789437db3fb4abbb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/MasterNodeDataCollector.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/OutlineOpHelper.cs
+    sourceGUID: d0900a4b7d1563e49b6184d7579dcbec
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/OutlineOpHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/OutputNode.cs
+    sourceGUID: ed0ee3a73f11f344495d16b54bb3af29
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/OutputNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/RenderingOptionsOpHelper.cs
+    sourceGUID: 26d840af03d4f7b418e9c7bece143648
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/RenderingOptionsOpHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/RenderingPlatformsOpHelper.cs
+    sourceGUID: 50a1f03b042823f469cef7d97c73fdc3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/RenderingPlatformsOpHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/StandardSurface.cs
+    sourceGUID: 59e61f9559385a94a87d4d37dbd556f0
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/StandardSurface.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/StencilBufferOpHelper.cs
+    sourceGUID: 0111d524dc809f14aa95e4e1ab93d37b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/StencilBufferOpHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/TessellationOpHelper.cs
+    sourceGUID: c6fbad94b0fc6b948be3a3dc61232c05
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/TessellationOpHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/ZBufferOpHelper.cs
+    sourceGUID: f35a3e26a28596b4f9b54a1f2689db06
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Master/ZBufferOpHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/AppendNode.cs
+    sourceGUID: 688412c534df41444ad49759fa2b6a62
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/AppendNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/BreakToComponentsNode.cs
+    sourceGUID: a74e2c0a9306c0048bfcc733cb7d154d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/BreakToComponentsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/CustomExpressionNode.cs
+    sourceGUID: f2507a764c07082458e350211d671334
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/CustomExpressionNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/DynamicAppendNode.cs
+    sourceGUID: bc524cd13743b6f49a2e331767646448
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/DynamicAppendNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/FresnelNode.cs
+    sourceGUID: 91955bc593b0dc14d90b10cb3eb25355
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/FresnelNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/GetLocalVarNode.cs
+    sourceGUID: efce529ed3c74854b9d0cece836991c3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/GetLocalVarNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/LayeredBlendNode.cs
+    sourceGUID: 90801da82a0b4f74cae2f9387bd5ad92
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/LayeredBlendNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/MatrixFromVectors.cs
+    sourceGUID: a313774cf0e4d1e4289d7395e8e49067
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/MatrixFromVectors.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/PosFromTransformMatrix.cs
+    sourceGUID: 7c7321a370f1f1b499d4655cc25f457b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/PosFromTransformMatrix.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RegisterLocalVarNode.cs
+    sourceGUID: ebd1a3b3014ccdd40b8fa805b4281c6f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RegisterLocalVarNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RelayNode.cs
+    sourceGUID: ef679ba7cdeda594aa3e5c02b25e66df
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RelayNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RotateAboutAxisNode.cs
+    sourceGUID: 6190b6c1a4cd29b48bfd36ff9b2ea773
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/RotateAboutAxisNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SummedBlendNode.cs
+    sourceGUID: da71cf021d98a7f468319e56eaefe6f1
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SummedBlendNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SwitchNode.cs
+    sourceGUID: ad88ed9f1b6010a4bb17685dec17a585
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SwitchNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SwizzleNode.cs
+    sourceGUID: 3bb41488b4b3e034d838c73c2eb471f5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/SwizzleNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/ToggleSwitchNode.cs
+    sourceGUID: c7f6ffd9a8c958e449321777764784de
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/ToggleSwitchNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/VectorFromMatrixNode.cs
+    sourceGUID: 31c07015a5f2aa44297aa7cfb80ffdd5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/VectorFromMatrixNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WeightedAvgNode.cs
+    sourceGUID: 35c70c67524c86049a25b7ebd0de6ae3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WeightedAvgNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WeightedBlendNode.cs
+    sourceGUID: b91b2aefbfad5b444b25320e9ed53cac
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WeightedBlendNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WireNode.cs
+    sourceGUID: 7a566d6bf220cd74b8385a91f690b683
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/WireNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/ObjectToWorldTransfNode.cs
+    sourceGUID: 545417ad304cea84b9f625a3b6ad4e56
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/ObjectToWorldTransfNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/ParentTransfNode.cs
+    sourceGUID: 11f04432b7f1ffb43b584adb226614c6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/ParentTransfNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/WorldToObjectTransfNode.cs
+    sourceGUID: 8a25ccf8973bfae46ae3df2823f58229
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Misc/Transformation/WorldToObjectTransfNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ACosOpNode.cs
+    sourceGUID: 8238f389c28938544b56035531b3f1be
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ACosOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ASinOpNode.cs
+    sourceGUID: 268ebf76d03c2e84f8c80a375773b46c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ASinOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ATan2OpNode.cs
+    sourceGUID: f5957d9ac2cc12146bc862cd0c92815a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ATan2OpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ATanOpNode.cs
+    sourceGUID: d84f7e90e793aaa4891b4c1fe400dc4c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ATanOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/AbsOpNode.cs
+    sourceGUID: 46aea6c13d71ec74da7f23abba3704d6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/AbsOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CeilOpNode.cs
+    sourceGUID: 555db3754f84db947846519630ea303b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CeilOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ClampOpNode.cs
+    sourceGUID: 5d7101830aa0c524f9519fef95c90dc3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ClampOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ClipNode.cs
+    sourceGUID: 78e9954f4d587b74fa38ae1dd9922d77
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ClipNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ComponentMaskNode.cs
+    sourceGUID: 85082b6932d1c9a4f8b64605534ef118
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ComponentMaskNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CosOpNode.cs
+    sourceGUID: ee9c446e7e41d524f8b4c93e6a8886c5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CosOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CoshOpNode.cs
+    sourceGUID: 2b50a187f488a004aaa2dabbe558ab3a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CoshOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CrossProductOpNode.cs
+    sourceGUID: 283bc0645ce925346b33c024ff5a7dad
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/CrossProductOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DdxOpNode.cs
+    sourceGUID: 2e14c4a7c0be9f146ac912130c280b15
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DdxOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DdyOpNode.cs
+    sourceGUID: 722a2ad531fefdc4d8782d5c7cdfd012
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DdyOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DegreesOpNode.cs
+    sourceGUID: 3d88a21f3ece742408c7748897a21c79
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DegreesOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DeterminantOpNode.cs
+    sourceGUID: e5cded78687f09442895bc96cc5b683d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DeterminantOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DistanceOpNode.cs
+    sourceGUID: 4b8bd7fecbc728f4b89d398cef86ada8
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DistanceOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DotProductOpNode.cs
+    sourceGUID: c2bf0375fb75ce245b2f30857a111972
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/DotProductOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Exp2OpNode.cs
+    sourceGUID: a9881734e0217bc45bb422dc83f6ee1a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Exp2OpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ExpOpNode.cs
+    sourceGUID: 81ef96bc69f897d4e8bc21e2731e065f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ExpOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FWidthOpNode.cs
+    sourceGUID: 2e17448829221b04bb3185bef727b19f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FWidthOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FloorOpNode.cs
+    sourceGUID: 176154e86c6c3544fab0d67e098c645d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FloorOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FmodOpNode.cs
+    sourceGUID: 599ae67e52ac45f46acc0efd9285b97c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FmodOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FractNode.cs
+    sourceGUID: fd6da00dbcdf3d04cb35a61cda01ae77
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/FractNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/InverseOpNode.cs
+    sourceGUID: 785830160e033d24280df9c5b4cec368
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/InverseOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LengthOpNode.cs
+    sourceGUID: bb3fd570e41cfa24d93b53e80eac02d5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LengthOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LerpOp.cs
+    sourceGUID: 1e38abf6e3c7dfa409a5fe40d2ce8a19
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LerpOp.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Log10OpNode.cs
+    sourceGUID: be47a76f1f42fbe47bf2568584c31196
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Log10OpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Log2OpNode.cs
+    sourceGUID: b9489308aad1f794982afc1faf646013
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/Log2OpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LogOpNode.cs
+    sourceGUID: 1ed2c12cea61a8c4fa67eebdc10d2a2a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/LogOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/MultipleInputOpNode.cs
+    sourceGUID: 8804c7e5888738547b5a704f788fc18b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/MultipleInputOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/NegateNode.cs
+    sourceGUID: 01c91005470f6b94eba168a127cecd6c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/NegateNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/NormalizeNode.cs
+    sourceGUID: fa6682c371754094f88b3c2a7e96ae26
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/NormalizeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/OneMinusNode.cs
+    sourceGUID: 727743b66e17d7b4f9c2fbe7dde98bd9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/OneMinusNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/PowerNode.cs
+    sourceGUID: 520a55839e863ce47b3558be612f4691
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/PowerNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RSqrtOpNode.cs
+    sourceGUID: 513de50bd4766d0448bb471ca272608f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RSqrtOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RadiansOpNode.cs
+    sourceGUID: b6ca01d5c16f73c42996318c140eddb7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RadiansOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ReflectOpNode.cs
+    sourceGUID: bcd77715f8db1564abc96d502312d476
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ReflectOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RefractOpVec.cs
+    sourceGUID: c5bb608b83cdc894cab572c72baa5f84
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RefractOpVec.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RoundOpNode.cs
+    sourceGUID: f7b5f29bc7f6bb844ae4ea698404adc3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/RoundOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SaturateNode.cs
+    sourceGUID: 9d56f68d94c889443af651140ef86948
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SaturateNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ScaleAndOffsetNode.cs
+    sourceGUID: b594feaa69ad03449b563f834fe0c18e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ScaleAndOffsetNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ScaleNode.cs
+    sourceGUID: ec926b11f9c698c458f746e4e55fd7df
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/ScaleNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SignOpNode.cs
+    sourceGUID: 429f407c2b590df45b215f0edfa49b97
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SignOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SimplifiedFModOpNode.cs
+    sourceGUID: f186e1b03a8ee2b4b9e45918576e8cf6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SimplifiedFModOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SinOpNode.cs
+    sourceGUID: be2a11b08ee8cbb458dbcc4c1a61ad1b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SinOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SingleInputOp.cs
+    sourceGUID: ed03e964ff9aa274cbf392769b61170b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SingleInputOp.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SinhOpNode.cs
+    sourceGUID: 52092e3985c556943895f86c585bcd25
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SinhOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SmoothstepOpNode.cs
+    sourceGUID: 0f64eb769f843a349a0d249beacc6fc3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SmoothstepOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SqrtOpNode.cs
+    sourceGUID: 4820b591b73a7fe4ab13261deebf76f7
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/SqrtOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/StepOpNode.cs
+    sourceGUID: c4305e64271097249a198b2e8aed3046
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/StepOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TFHCRemapNode.cs
+    sourceGUID: 637508d44a97b5449a3d7223c461e58c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TFHCRemapNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TanOpNode.cs
+    sourceGUID: 535b4367719ca2146bb7ddac217dad94
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TanOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TanhOpNode.cs
+    sourceGUID: 792e48b83a6387a4d826d6445417372f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TanhOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TransformVectorOpNode.cs
+    sourceGUID: 928c21155a9c1a74b953da2d24269035
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TransformVectorOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TransposeOpNode.cs
+    sourceGUID: ba1613dad4af0da4b9f4619b90916cbf
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TransposeOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TruncOpNode.cs
+    sourceGUID: 5f78e9a796a94d54482caa15d4971feb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/TruncOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/VariablePortTypeOpNode.cs
+    sourceGUID: 97be7adea7b8ae44c9bebb753277e0c2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Operators/VariablePortTypeOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleAddOpNode.cs
+    sourceGUID: 6ca9162ab6c708f40bbc21f0c22909fa
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleAddOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleDivideOpNode.cs
+    sourceGUID: e80e305761a1e6c4898e401a64b17f84
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleDivideOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMaxOpNode.cs
+    sourceGUID: 4ea5a2904ca58164086eeb8ef3084ed2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMaxOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMinOpNode.cs
+    sourceGUID: 1b19c8479d7a7a9458a6f556bf6545d5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMinOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMultiplyOpNode.cs
+    sourceGUID: 647081578ac7f014d98090d36b5b1bc8
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleMultiplyOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleRemainderNode.cs
+    sourceGUID: 5785c326a26d2ba4ab642fc2bdd41e9a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleRemainderNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleSubtractOpNode.cs
+    sourceGUID: 204f935dafd0a984297e242583de1da5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SimpleNodes/SimpleSubtractOpNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ColorInputsNode.cs
+    sourceGUID: ee44f086d7aa7804ea035860c5735cfb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ColorInputsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/GrabScreenPosition.cs
+    sourceGUID: 47af62ad6a29d1b409d526d352b5e677
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/GrabScreenPosition.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/LocalVertexPosNode.cs
+    sourceGUID: 2528fbf85b5823a4499871c2a6eecc0a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/LocalVertexPosNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenColorNode.cs
+    sourceGUID: b266c7cca236bcb469d6d4f13df55df5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenColorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenDepthNode.cs
+    sourceGUID: 52266d8a6f7f4fe428dcee2ddb0514ac
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenDepthNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenPosInputsNode.cs
+    sourceGUID: 32cea8ff65efa3844a0047477ec789da
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ScreenPosInputsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/SurfaceShaderINParentNode.cs
+    sourceGUID: 71628885b2fde0944bf7dd8e4eb2770f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/SurfaceShaderINParentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/TexelSizeNode.cs
+    sourceGUID: 1a23decd88779d24f9af6ae30c3d5a5f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/TexelSizeNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/UVCoordsParentNode.cs
+    sourceGUID: 73fb18e7d547d514695cb0b83a29f80e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/UVCoordsParentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ViewDirInputsCoordNode.cs
+    sourceGUID: 4755b85e957e31d4b96d341070b156b5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/ViewDirInputsCoordNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldNormalInputsNode.cs
+    sourceGUID: 891e3ffa10c12c54e83a1e40df03df2f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldNormalInputsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldNormalVector.cs
+    sourceGUID: d61a084db19701c4fb3030ee953ac509
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldNormalVector.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldPosInputsNode.cs
+    sourceGUID: 850bb0065928b7f499b869b8adc1ce5c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldPosInputsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldReflInputsNode.cs
+    sourceGUID: e4f39f3a52f10644392decce9d1e6790
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldReflInputsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldReflectionVector.cs
+    sourceGUID: bd82e1d90bd90fc4d924e97e5fdcc7de
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/SurfaceShaderInputs/WorldReflectionVector.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/BlendNormalsNode.cs
+    sourceGUID: eceb6029efe39524d83b45c10a979943
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/BlendNormalsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/HeightMapBlendNode.cs
+    sourceGUID: b80a218ca12b89948b83d0dee41fc056
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/HeightMapBlendNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/PannerNode.cs
+    sourceGUID: 08ddf1dd61719944b9e50d4bc87c0413
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/PannerNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/RotatorNode.cs
+    sourceGUID: e228d03a789934a4f90f9587396692e3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/RotatorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/SamplerNode.cs
+    sourceGUID: 057d23b232d9c044cbf3f1d0b1a06909
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/SamplerNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/SubstanceSamplerNode.cs
+    sourceGUID: 7323b6020278e034b9e4c670cbc61361
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/SubstanceSamplerNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TFHCFlipBookUVAnimation.cs
+    sourceGUID: 38b8c76e7f2dc294581195a669942706
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TFHCFlipBookUVAnimation.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TFHCPixelate.cs
+    sourceGUID: 72a1a810ace8ea440ba20d4a4f9086ce
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TFHCPixelate.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TextureCoordinatesNode.cs
+    sourceGUID: 872b1da17041cd64482c826cbfd9c8c6
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TextureCoordinatesNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TexturePropertyNode.cs
+    sourceGUID: c1210b3dd22dafe418c5a998df2c3443
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TexturePropertyNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TextureTransformNode.cs
+    sourceGUID: 4f9ca941b3f5014448e530c761a418d9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/TextureTransformNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/UnpackScaleNormalNode.cs
+    sourceGUID: ad04713692e9f124e86030d792c3e648
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/UnpackScaleNormalNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/VirtualTextureObject.cs
+    sourceGUID: bacb12043c5bc504aa49e0a5a9bbc534
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Textures/VirtualTextureObject.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BillboardNode.cs
+    sourceGUID: 08fd3dd8f623aca42b7eb9962a89753d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BillboardNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BitangentVertexDataNode.cs
+    sourceGUID: 839ecbdfc8ed4fd4d8a08ec07f7159fa
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/BitangentVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/ColorVertexDataNode.cs
+    sourceGUID: ca76669baa9fa204b8ce5200eb07c1db
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/ColorVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/NormalVertexDataNode.cs
+    sourceGUID: 4c7b60515f9cf6043bf8d03531d268f9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/NormalVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/ObjectScaleNode.cs
+    sourceGUID: ef1fe46d0cc472e45ad13ac737db2c1e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/ObjectScaleNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/OutlineNode.cs
+    sourceGUID: 24f267627c002964badad2901309c96a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/OutlineNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/PosVertexDataNode.cs
+    sourceGUID: fc77801277f0faf4ca0be33f565b5604
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/PosVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TangentSignVertexDataNode.cs
+    sourceGUID: 1f79f23d5c10c9e4fb6a59c1ef70f6fc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TangentSignVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TangentVertexDataNode.cs
+    sourceGUID: b544118f39abfe84581b8249973d52c5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TangentVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TexCoord1VertexDataNode.cs
+    sourceGUID: ebd7eb3a7f6149e4e9dacbcda2d8089f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TexCoord1VertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TexCoordVertexDataNode.cs
+    sourceGUID: b865968ce22b9d949993e5e60126eb11
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/TexCoordVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexBinormalNode.cs
+    sourceGUID: 8ae297dac4e208f4e86c8f7a022fc5bd
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexBinormalNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexColorNode.cs
+    sourceGUID: 6271f602b9ab61e4c9a96a91e473c1e0
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexColorNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexDataNode.cs
+    sourceGUID: e5f8fa23e49e4be478b283a704459767
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexTangentNode.cs
+    sourceGUID: 3aca1dfe55df44d4cbaf99d5a40f7470
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexTangentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexToFragmentNode.cs
+    sourceGUID: 9ecea5c13558ad4499dd4bc558670b8e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/VertexToFragmentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/DistanceBasedTessNode.cs
+    sourceGUID: 5a83fb450d164d34bb756f46b3f4290e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/DistanceBasedTessNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/EdgeLengthCullTessNode.cs
+    sourceGUID: 4b09c64ce2fd06a4cb4036d8cc0f8b2a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/EdgeLengthCullTessNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/EdgeLengthTessNode.cs
+    sourceGUID: abe3e8fa4d49c9742a95ac801fd14d7d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/EdgeLengthTessNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/TessellationParentNode.cs
+    sourceGUID: 79c24faef1fec884d937e74bdc9209da
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Nodes/Vertex/Tessellation/TessellationParentNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalDefinesHelper.cs
+    sourceGUID: 35a7fdfdb9a6b0048aa322a9fe58a371
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalDefinesHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalIncludesHelper.cs
+    sourceGUID: 0ab4c474dfddce2429da08f56e651ed4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalIncludesHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalParentHelper.cs
+    sourceGUID: 5360ba11600eeb44786246ca70212e25
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalParentHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalPragmasHelper.cs
+    sourceGUID: de89b62c2bd8eec4b915a0decba936fb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateAdditionalPragmasHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateCodeSnippetBase.cs
+    sourceGUID: 5fc48fb872ce5e74aa913f987a025ea4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateCodeSnippetBase.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateColorMaskModule.cs
+    sourceGUID: e1d9e34bd7946e247aa6d28b2859c6b1
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateColorMaskModule.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateCullModeModule.cs
+    sourceGUID: dcbce53ba2eeecd4a8f2c7f5f9a43b7a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateCullModeModule.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateData.cs
+    sourceGUID: b03340e569366ae4dbd502e14c62e225
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDataCollector.cs
+    sourceGUID: c757602c408f7354b96c2a5eb21662a4
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDataCollector.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDataParent.cs
+    sourceGUID: 4e8f3788c7c239042b3cc3d086311227
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDataParent.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDepthModule.cs
+    sourceGUID: 91bbf209a618780459e775d6816a4b06
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateDepthModule.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateFragmentDataNode.cs
+    sourceGUID: 2b53cc116abb0df45b028f41b8f0305e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateFragmentDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateHelperFunctions.cs
+    sourceGUID: 517aad6764d713946bc566f0a83cd44d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateHelperFunctions.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateIdManager.cs
+    sourceGUID: b0d2e93061ffcbd45b085a61e5000daa
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateIdManager.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateInterpData.cs
+    sourceGUID: 8f700ba5366bcda45beea5c0e2db9f3e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateInterpData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateLocalVarData.cs
+    sourceGUID: 4c6ad22d8633c7142ae0237479df76ed
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateLocalVarData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateLocalVarsNode.cs
+    sourceGUID: f708a5bf672ab004a9363a4a71f48f28
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateLocalVarsNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMasterNode.cs
+    sourceGUID: 8bbd856408a816448a2686501df37397
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMasterNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMenuItems.cs
+    sourceGUID: da0b931bd234a1e43b65f684d4b59bfb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMenuItems.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModuleHelper.cs
+    sourceGUID: 144af5a201bd97542bf3a483976759db
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModuleHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModuleParent.cs
+    sourceGUID: 3aaabf1f5cb06414a8be17a89487e10f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModuleParent.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModulesData.cs
+    sourceGUID: 122447ac2bc376a448a42a0f5373e63b
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateModulesData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPass.cs
+    sourceGUID: 4214390aa7f66364bbab454dc15a04ac
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPass.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPassMasterNode.cs
+    sourceGUID: fce684c26c654d14e927860863cd99dd
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPassMasterNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPassSwitchNode.cs
+    sourceGUID: 58e4eb5fc3fed124384eef956c6c3ee1
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMultiPassSwitchNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateNodeParent.cs
+    sourceGUID: b21cb297a12ef0a4281213619e3e76bf
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateNodeParent.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePass.cs
+    sourceGUID: 1e6749bf88e2d0f4ab5812f084973f4c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePass.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePostProcessor.cs
+    sourceGUID: d5f63490d6402e9488add7cbdfdd6872
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatePostProcessor.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderData.cs
+    sourceGUID: 33fdd6a5fbc437a489acf58f5d82885c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderModelModule.cs
+    sourceGUID: 33c15b597b8db18499c1b4a76035a552
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderModelModule.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderPropertyData.cs
+    sourceGUID: 7d16f1d82f69ac945ac524dd877ce7fe
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderPropertyData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderPropertyNode.cs
+    sourceGUID: 1579d32d6529f33418f210a5bd730436
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateShaderPropertyNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateSubShader.cs
+    sourceGUID: f4ff24a5a4c92f745a159f247574c07a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateSubShader.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateTagsModule.cs
+    sourceGUID: 905b4a4de4a974a489d7a8aac14e4fcb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateTagsModule.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateVertexData.cs
+    sourceGUID: d11e7a9026804bd46962c527fe30d933
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateVertexData.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateVertexDataNode.cs
+    sourceGUID: 5eb32f2452052fb43b6b93c9baa8f02f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateVertexDataNode.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesBlendModule.cs
+    sourceGUID: 7c88941c5badfb7428059cc3ff0c0df9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesBlendModule.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesManager.cs
+    sourceGUID: 9f0aacdb47cf3b94ebbe9e72af9d3cf1
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesManager.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesStencilBufferModule.cs
+    sourceGUID: fa41b984209fa624aa1fdea5949d9d59
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Templates/TemplatesStencilBufferModule.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/ASETextureArrayCreator.cs
+    sourceGUID: 436dc8bc09773454db57b9fbf799ec9d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/ASETextureArrayCreator.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/CustomMaterialInspector.cs
+    sourceGUID: a1c012872b428594f95e585bd19e5347
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/CustomMaterialInspector.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/CustomShaderInspector.cs
+    sourceGUID: 641dff721f3c24c4188f01fea49484cb
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/CustomShaderInspector.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/CustomTexture2DArrayInspector.cs
+    sourceGUID: 871ecf36e52b267449b9047596793d6f
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/CustomTexture2DArrayInspector.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/EditorVariablesManager.cs
+    sourceGUID: d402e3c7d578ee046a5d0826b9a41c27
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/EditorVariablesManager.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/GeneratorUtils.cs
+    sourceGUID: 7ab31d77d200c7a4ca43f4bf159de6b3
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/GeneratorUtils.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/GenericMessage.cs
+    sourceGUID: 87cfef50a69ad24479fb8b472dac6d6e
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/GenericMessage.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/IOUtils.cs
+    sourceGUID: d39b4c96fb4d7f847b3a21c377d4188d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/IOUtils.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/InlineProperty.cs
+    sourceGUID: f4f4421f529503243bfef5076ae82512
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/InlineProperty.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/InvalidDataChecker.cs
+    sourceGUID: c71b815458d61e24184a60dbce19573d
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/InvalidDataChecker.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/NodeExporterUtils.cs
+    sourceGUID: f9b3f6c515f0e16469de89d9e22263c5
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/NodeExporterUtils.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/RectExtension.cs
+    sourceGUID: e5a7e5c0308e038448cd1a235bf840ca
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/RectExtension.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/ShortcutsManager.cs
+    sourceGUID: 15917e71489c3ca4dbc5fdef9bb37433
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/ShortcutsManager.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/TipsWindow.cs
+    sourceGUID: 565dc3c9725b0db49b7d5ea17d151682
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/TipsWindow.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/UIUtils.cs
+    sourceGUID: 23e0210afe076544ca92d761094a9119
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/UIUtils.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/UndoUtils.cs
+    sourceGUID: 89dee7566d97f1847b9fe114e1c9a1a2
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/UndoUtils.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/UpperLeftWidgetHelper.cs
+    sourceGUID: 32dbececad3a67a4fbde694ae50ce82c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/UpperLeftWidgetHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Utils/WindowHelper.cs
+    sourceGUID: ad6ef05d39dc39e42b8bfe0bdb826b7a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Utils/WindowHelper.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Version/About.cs
+    sourceGUID: b52649079e4f9ef488724bd3c72449ed
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Version/About.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Version/VersionInfo.cs
+    sourceGUID: 581602482686da34180d35b169cd357a
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Version/VersionInfo.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Wires/GLDraw.cs
+    sourceGUID: 7647d2525992b7748a587740fd596977
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Wires/GLDraw.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Wires/InputPort.cs
+    sourceGUID: e8199169aaf7f404492a0f2353fb52f9
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Wires/InputPort.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Wires/OutputPort.cs
+    sourceGUID: 82722ce1ba0df314490a9362e503727c
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Wires/OutputPort.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Wires/WireBezierReference.cs
+    sourceGUID: 499682ec40529f44480d58747ad7ab44
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Wires/WireBezierReference.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Wires/WirePort.cs
+    sourceGUID: 4709687a4844c9545a254c2ddbf3ca63
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Wires/WirePort.cs
+  - sourcePath: Assets/AmplifyShaderEditor/Plugins/Editor/Wires/WireReference.cs
+    sourceGUID: 99fb607e60678c44da002d6b694400dc
+    targetPath: Assets/Plugins/Editor/AmplifyShaderEditor/Plugins/Editor/Wires/WireReference.cs
+  forRemoval: 0
+  forRemovalDeleteEmptyDirs: 0
+  persistent: 1

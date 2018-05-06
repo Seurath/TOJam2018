@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 342976093, guid: 5eb872180e6624b46b2fa8b2229cc7ac, type: 3}
+  m_Name: Colorful FX-log
+  m_EditorClassIdentifier: 
+  ruleName: Colorful FX
+  rootDirectoryGUID: a262e5ed868464d1e849afb07a1d1e49
+  rules:
+  - sourcePath: Assets/Colorful FX/Editor/BaseEffectEditor.cs
+    sourceGUID: 51af486729aacac4a9de2f9e05dc5bb2
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/BaseEffectEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/AnalogTVEditor.cs
+    sourceGUID: b50bbf63bbe2da2469b67479b47bf989
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/AnalogTVEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/BilateralGaussianBlurEditor.cs
+    sourceGUID: 66e81a5c475bf3c439b5a67027bc36fb
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/BilateralGaussianBlurEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/BleachBypassEditor.cs
+    sourceGUID: f4576dc4584db1b4f9f1d80bdae148f6
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/BleachBypassEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/BlendEditor.cs
+    sourceGUID: 1e832d91494c75e458f49538da81924c
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/BlendEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/BrightnessContrastGammaEditor.cs
+    sourceGUID: 7d54a49fbdf254545a0f584279ba005b
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/BrightnessContrastGammaEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ChannelClamperEditor.cs
+    sourceGUID: dff6c3f440b091d42bc9c207fa8ca094
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ChannelClamperEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ChannelMixerEditor.cs
+    sourceGUID: 5d45a191de515ea40bace7c61083bf36
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ChannelMixerEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ChannelSwapperEditor.cs
+    sourceGUID: 58395e03ec9542e40ba5b4dc7c6e84c0
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ChannelSwapperEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ChromaticAberrationEditor.cs
+    sourceGUID: eec1e784f0174b44c891fdbfdb665931
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ChromaticAberrationEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ComicBookEditor.cs
+    sourceGUID: d80d3ec9bf3002140a9db6278b1b0175
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ComicBookEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ContrastGainEditor.cs
+    sourceGUID: 5a6292e27063f6140b390ea247988848
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ContrastGainEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ContrastVignetteEditor.cs
+    sourceGUID: d01a95f6eb43e5442bd35d505c95e4eb
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ContrastVignetteEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/Convolution3x3Editor.cs
+    sourceGUID: d3bc843f4e64761439439cd8247a8d37
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/Convolution3x3Editor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/CrossStitchEditor.cs
+    sourceGUID: f0b83e28ce69a184eb48e2606a945593
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/CrossStitchEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/DirectionalBlurEditor.cs
+    sourceGUID: d96b81a86df7fc64ea61a25c473a2d93
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/DirectionalBlurEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/DitheringEditor.cs
+    sourceGUID: 43490eb5f605e514584169a9fcd414c8
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/DitheringEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/DoubleVisionEditor.cs
+    sourceGUID: 6ea8f17d16dc36b41b065f4aa0c4dcaf
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/DoubleVisionEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/DynamicLookupEditor.cs
+    sourceGUID: a18b5e6e202496840a9d0e1e138a7fd8
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/DynamicLookupEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/FastVignetteEditor.cs
+    sourceGUID: 3be4d3353f6c1c44d9a88d51e4782b5b
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/FastVignetteEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/FrostEditor.cs
+    sourceGUID: 4b789574aca839f4fb0bfcce638621ce
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/FrostEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/GaussianBlurEditor.cs
+    sourceGUID: fcb034686274b6b45a17bf5fac223ad2
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/GaussianBlurEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/GlitchEditor.cs
+    sourceGUID: 57e2ab7d58ca1e4458448984e8309f1f
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/GlitchEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/GradientRampDynamicEditor.cs
+    sourceGUID: 8ee9d7d27f4dd3141955e9ad9da5626e
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/GradientRampDynamicEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/GradientRampEditor.cs
+    sourceGUID: c770ef3f88fef48469dc767603d7861d
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/GradientRampEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/GrainyBlurEditor.cs
+    sourceGUID: 6115c55fccefd0b4ab1c9ff4a54578c1
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/GrainyBlurEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/GrayscaleEditor.cs
+    sourceGUID: 2c77ef04cea05d44dad9f90afae3116d
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/GrayscaleEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/HalftoneEditor.cs
+    sourceGUID: 0e071755be1eea74c9284b5b29cbcd26
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/HalftoneEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/HistogramEditor.cs
+    sourceGUID: 9d071f1f04ead6742938ba8b073f2740
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/HistogramEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/HueFocusEditor.cs
+    sourceGUID: 95c14fb8c2a52394f9dfe787cbf36a7e
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/HueFocusEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/HueSaturationValueEditor.cs
+    sourceGUID: 98648ea769b03bb4ea9a0f2fad531d98
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/HueSaturationValueEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/KuwaharaEditor.cs
+    sourceGUID: ba3e4ad0653dd0b4eb0f1073baf77ad8
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/KuwaharaEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/LedEditor.cs
+    sourceGUID: 493055e70fc53814b9c9fdd92f38e641
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/LedEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/LensDistortionBlurEditor.cs
+    sourceGUID: db9b779b99d913b46942cfd97c31b5ba
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/LensDistortionBlurEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/LetterboxEditor.cs
+    sourceGUID: a5783bc33aba2c044bd202431145954a
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/LetterboxEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/LevelsEditor.cs
+    sourceGUID: ac5d17dae0d68ac4fae73a57b0b964b8
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/LevelsEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/LoFiPaletteEditor.cs
+    sourceGUID: 13a2b41bc1dfa8b45b0aa7806eedb14a
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/LoFiPaletteEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/LookupFilter3DEditor.cs
+    sourceGUID: 2185476e9656d32409b69f8792dccd82
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/LookupFilter3DEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/LookupFilterEditor.cs
+    sourceGUID: d6489f28835764f49bc726c7bc74e89b
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/LookupFilterEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/NegativeEditor.cs
+    sourceGUID: c46e42cb6ddd5ff48832385a30fba226
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/NegativeEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/NoiseEditor.cs
+    sourceGUID: c675525fd1d05714ba52aae6a1da5e8c
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/NoiseEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/PhotoFilterEditor.cs
+    sourceGUID: 8aa05227668c2ff45a1ddf5b714fb64c
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/PhotoFilterEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/PixelMatrixEditor.cs
+    sourceGUID: b5ade3fe502dc404b91a45c95c4896d6
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/PixelMatrixEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/PixelateEditor.cs
+    sourceGUID: 284d28bd27c885c4fad7bdb289e4b404
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/PixelateEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/PosterizeEditor.cs
+    sourceGUID: 0869f3e787781f645b6a50d951749c8d
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/PosterizeEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/RGBSplitEditor.cs
+    sourceGUID: aa0746a6353353f4a9dbf1d9d1115ab0
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/RGBSplitEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/RadialBlurEditor.cs
+    sourceGUID: aafd9c0e42cf95a4789cc0560efc6726
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/RadialBlurEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/SCurveContrastEditor.cs
+    sourceGUID: 7a6954c6ece9836479f4d43d821ff8e9
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/SCurveContrastEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ShadowsMidtonesHighlightsEditor.cs
+    sourceGUID: cb87bcb4233abe24d88485369a6ffcee
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ShadowsMidtonesHighlightsEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/SharpenEditor.cs
+    sourceGUID: 1d7c1a6357b196747a42ecfca1e2dd4c
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/SharpenEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/SmartSaturationEditor.cs
+    sourceGUID: 0a6927d42e0c5df44af1517cdfe1d205
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/SmartSaturationEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/StrokesEditor.cs
+    sourceGUID: ac3e745b3dc1d3d4789beeb8f8716c2b
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/StrokesEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/TVVignetteEditor.cs
+    sourceGUID: 1ee34ac38f0bf77459a674b14201857c
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/TVVignetteEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/TechnicolorEditor.cs
+    sourceGUID: 43efb79f0a55f8a47827948320de5d5e
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/TechnicolorEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/ThresholdEditor.cs
+    sourceGUID: b8aefb8ad76f1e046905ad3be8bc49d3
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/ThresholdEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/VibranceEditor.cs
+    sourceGUID: 1d93ddc03cf697348b70c15f15bce28d
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/VibranceEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/VintageEditor.cs
+    sourceGUID: 5ea04c212030eaa47881ee0caedd2856
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/VintageEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/VintageFastEditor.cs
+    sourceGUID: 51e43aaf9dea6414685f60a22730e7aa
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/VintageFastEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/WaveDistortionEditor.cs
+    sourceGUID: 7d6761cdf66f9e641aa362d78cfb226f
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/WaveDistortionEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/WhiteBalanceEditor.cs
+    sourceGUID: 07588eab913e957498c2da231bf9198d
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/WhiteBalanceEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/Effects/WiggleEditor.cs
+    sourceGUID: 69a21a616d85b3e4a9c5a82e60c55132
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Effects/WiggleEditor.cs
+  - sourcePath: Assets/Colorful FX/Editor/PropertyDrawer/MinDrawer.cs
+    sourceGUID: a89104df11f6a3e448d68d949cd522fd
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/PropertyDrawer/MinDrawer.cs
+  - sourcePath: Assets/Colorful FX/Editor/Startup/ColorfulFX_StartupWindow.cs
+    sourceGUID: 1b65b98459368bf4fb6663ba8aa5216d
+    targetPath: Assets/Plugins/Editor/Colorful FX/Editor/Startup/ColorfulFX_StartupWindow.cs
+  - sourcePath: Assets/Colorful FX/Scripts/BaseEffect.cs
+    sourceGUID: 997a825680d21d54eb1ffce25408c0a0
+    targetPath: Assets/Plugins/Colorful FX/Scripts/BaseEffect.cs
+  - sourcePath: Assets/Colorful FX/Scripts/CLib.cs
+    sourceGUID: f2ebd99fc8544fe42831227b5284df50
+    targetPath: Assets/Plugins/Colorful FX/Scripts/CLib.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Attributes/MinAttribute.cs
+    sourceGUID: 1d30cc3cea37d24448a6de8965e88e01
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Attributes/MinAttribute.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/AnalogTV.cs
+    sourceGUID: 249169bbea0dd51478b14718e62f7e54
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/AnalogTV.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/BilateralGaussianBlur.cs
+    sourceGUID: 6c308c66c5ca62241854d5e9441dff12
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/BilateralGaussianBlur.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/BleachBypass.cs
+    sourceGUID: 375ca57461b42344c864b4420165e81c
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/BleachBypass.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Blend.cs
+    sourceGUID: a03bbd8dae5544449a4aa2f932421675
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Blend.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/BrightnessContrastGamma.cs
+    sourceGUID: 218001df9f0f08c44bdc15b86cfab74d
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/BrightnessContrastGamma.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ChannelClamper.cs
+    sourceGUID: 4bbedf175159cd246abc66482e52791d
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ChannelClamper.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ChannelMixer.cs
+    sourceGUID: 44002857159cfa64fab24b6ec32b80de
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ChannelMixer.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ChannelSwapper.cs
+    sourceGUID: 31469d7a9ef2ef04c9db920f12918f7d
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ChannelSwapper.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ChromaticAberration.cs
+    sourceGUID: ca037f4bdb3f772408f958bc6cd2b647
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ChromaticAberration.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ComicBook.cs
+    sourceGUID: 71f5e50fe4501bb4eb59bd2aabac07f6
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ComicBook.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ContrastGain.cs
+    sourceGUID: 811f2f6e1a790e74d9dc90e4602b78df
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ContrastGain.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ContrastVignette.cs
+    sourceGUID: d71ed1522687af44190ab88a913a3c74
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ContrastVignette.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Convolution3x3.cs
+    sourceGUID: 7245cf61e1ed2bc49bd3ec8ef6f299ad
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Convolution3x3.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/CrossStitch.cs
+    sourceGUID: 86b15e716a293ba448fc678484e34faa
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/CrossStitch.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/DirectionalBlur.cs
+    sourceGUID: 8dfafee99a682d340a337ad7faac2c2c
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/DirectionalBlur.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Dithering.cs
+    sourceGUID: 1fbea93e4d9974b409e25836a5c8f679
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Dithering.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/DoubleVision.cs
+    sourceGUID: 48defb31b546e8e49bd5568d4765bfb0
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/DoubleVision.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/DynamicLookup.cs
+    sourceGUID: a8feeb07303302b49be4c3647f055b67
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/DynamicLookup.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/FastVignette.cs
+    sourceGUID: bade397de0db6634686b451e10dc2edc
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/FastVignette.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Frost.cs
+    sourceGUID: 2cf6863e426bf6f41be29f5e4a31ccfb
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Frost.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/GaussianBlur.cs
+    sourceGUID: a15c2b7bc763522479d7f0bd449970e4
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/GaussianBlur.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Glitch.cs
+    sourceGUID: f6e75ef5ee858bd4bab281c187d027f7
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Glitch.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/GradientRamp.cs
+    sourceGUID: eda76088a8e07c049bdeca7130ed039e
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/GradientRamp.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/GradientRampDynamic.cs
+    sourceGUID: 621b55d03df1b0941be31057afccdbef
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/GradientRampDynamic.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/GrainyBlur.cs
+    sourceGUID: 760aa1104f873f34a8812887a7e598a9
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/GrainyBlur.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Grayscale.cs
+    sourceGUID: befbe15c703f5f644a82e2e6c6ee90f4
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Grayscale.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Halftone.cs
+    sourceGUID: 747e71507dc923a48939d5eb54a54a25
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Halftone.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Histogram.cs
+    sourceGUID: d97ac868795b5554b9ac83596cf67725
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Histogram.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/HueFocus.cs
+    sourceGUID: 94d79bfd8cb64234383156801889630f
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/HueFocus.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/HueSaturationValue.cs
+    sourceGUID: 07da71ac68eb82745b717ba672e527d6
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/HueSaturationValue.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Kuwahara.cs
+    sourceGUID: adb0f17fe5138d54c8677968d83d98a7
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Kuwahara.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Led.cs
+    sourceGUID: 3a76d9b47ee5dec4fb0672e79ab4172f
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Led.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/LensDistortionBlur.cs
+    sourceGUID: b77b44e65f026d7459ca01c999a9a014
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/LensDistortionBlur.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Letterbox.cs
+    sourceGUID: 23c80b3cab5ae9141a030dbd1e0fd574
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Letterbox.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Levels.cs
+    sourceGUID: f423fc6d541e1de4086b6880994b270c
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Levels.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/LoFiPalette.cs
+    sourceGUID: 0ca97f3385a96b140b060f6025abe220
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/LoFiPalette.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/LookupFilter.cs
+    sourceGUID: 9adb2be4a98e6d14bb47dc747ce80219
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/LookupFilter.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/LookupFilter3D.cs
+    sourceGUID: 1222701696bce8f41a07d077b281118e
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/LookupFilter3D.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Negative.cs
+    sourceGUID: bbed2c7d9f2a38a4b821e762954e38e8
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Negative.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Noise.cs
+    sourceGUID: 6e8893002c9340b4c9dfb35503a523f1
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Noise.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/PhotoFilter.cs
+    sourceGUID: bb697cfaa11881546a01edd0eb62fd76
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/PhotoFilter.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/PixelMatrix.cs
+    sourceGUID: 6b1024d011da8dd488b260d3e0e7945d
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/PixelMatrix.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Pixelate.cs
+    sourceGUID: 2628181c809ee474485cc45322ff644f
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Pixelate.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Posterize.cs
+    sourceGUID: b8ff44335507f4749aa70099c187a8c4
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Posterize.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/RGBSplit.cs
+    sourceGUID: 68cd54ea1964189429cf8078ee8d5fd5
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/RGBSplit.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/RadialBlur.cs
+    sourceGUID: 75d0b0053075b424f96072721dfe5733
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/RadialBlur.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/SCurveContrast.cs
+    sourceGUID: 934871e03470f2048a86d4da39cca2dc
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/SCurveContrast.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/ShadowsMidtonesHighlights.cs
+    sourceGUID: 9a1e5796c9ae6d4458ba6002cb9d95d8
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/ShadowsMidtonesHighlights.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Sharpen.cs
+    sourceGUID: 23bf7bfb88d65c14f9588701ff10a068
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Sharpen.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/SmartSaturation.cs
+    sourceGUID: d41c435432e8be846ab24f5ea10848ef
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/SmartSaturation.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Strokes.cs
+    sourceGUID: 91fe5838a9fc42d449149118120a80a8
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Strokes.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/TVVignette.cs
+    sourceGUID: c8dc5284f20376c48a179856ec3388a6
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/TVVignette.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Technicolor.cs
+    sourceGUID: e79d607a782dc7d4a931f5e6eb240e79
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Technicolor.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Threshold.cs
+    sourceGUID: ee27dcf977a2a6e49bd0321a3d326cd8
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Threshold.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Vibrance.cs
+    sourceGUID: 19618ea32564c524da32f929ef2de8d8
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Vibrance.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Vintage.cs
+    sourceGUID: c7f5cffe1304732428428379c1126d90
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Vintage.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/VintageFast.cs
+    sourceGUID: 1c17a664134eb954aa7219d2d88c3bfb
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/VintageFast.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/WaveDistortion.cs
+    sourceGUID: 429380907452a0b4091607a6e92d2bb8
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/WaveDistortion.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/WhiteBalance.cs
+    sourceGUID: b87ea445a48e9f44ab51e80325d56b0a
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/WhiteBalance.cs
+  - sourcePath: Assets/Colorful FX/Scripts/Effects/Wiggle.cs
+    sourceGUID: 03a36ef005a80844b8e0ffada3adad9b
+    targetPath: Assets/Plugins/Colorful FX/Scripts/Effects/Wiggle.cs
+  forRemoval: 0
+  forRemovalDeleteEmptyDirs: 0
+  persistent: 1

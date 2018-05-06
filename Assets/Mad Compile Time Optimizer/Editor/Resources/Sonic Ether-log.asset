@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 342976093, guid: 5eb872180e6624b46b2fa8b2229cc7ac, type: 3}
+  m_Name: Sonic Ether-log
+  m_EditorClassIdentifier: 
+  ruleName: Sonic Ether
+  rootDirectoryGUID: d5c51612ad0d7449e934905ebb439101
+  rules:
+  - sourcePath: Assets/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLCameraAnimation.cs
+    sourceGUID: 712d674bc568a30428c7a928214f0f3c
+    targetPath: Assets/Plugins/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLCameraAnimation.cs
+  - sourcePath: Assets/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLGlobal.cs
+    sourceGUID: 36feee20b03ea6842b831a097102ca62
+    targetPath: Assets/Plugins/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLGlobal.cs
+  - sourcePath: Assets/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLGlowingOrbitingCube.cs
+    sourceGUID: 51b81de6dedb0f4438c7abfb24bcbb86
+    targetPath: Assets/Plugins/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLGlowingOrbitingCube.cs
+  - sourcePath: Assets/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLMainCube.cs
+    sourceGUID: 822df413cdd9f6a4b943efe4b9c47f53
+    targetPath: Assets/Plugins/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLMainCube.cs
+  - sourcePath: Assets/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLOrbitingCube.cs
+    sourceGUID: 17b8ef2d79d01d54ebba1a44754e1dc8
+    targetPath: Assets/Plugins/Sonic Ether/Natural Bloom/Demo Scene/Scripts/SENBDLOrbitingCube.cs
+  - sourcePath: Assets/Sonic Ether/Natural Bloom/Editor/SENaturalBloomAndDirtyLensEditor.cs
+    sourceGUID: 2d98a80fdd3b8324fb98c56fd1c2cfac
+    targetPath: Assets/Plugins/Editor/Sonic Ether/Natural Bloom/Editor/SENaturalBloomAndDirtyLensEditor.cs
+  - sourcePath: Assets/Sonic Ether/Natural Bloom/Scripts/SENaturalBloomAndDirtyLens.cs
+    sourceGUID: 8c12500f3afdeb24d9444042960a4cb9
+    targetPath: Assets/Plugins/Sonic Ether/Natural Bloom/Scripts/SENaturalBloomAndDirtyLens.cs
+  forRemoval: 0
+  forRemovalDeleteEmptyDirs: 0
+  persistent: 1

@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 342976093, guid: 5eb872180e6624b46b2fa8b2229cc7ac, type: 3}
+  m_Name: VisualizerStudio-log
+  m_EditorClassIdentifier: 
+  ruleName: VisualizerStudio
+  rootDirectoryGUID: 48c4343a39cc442be82e029a7935ca7a
+  rules:
+  - sourcePath: Assets/VisualizerStudio/Editor/Base/VisBaseControllerEditor.cs
+    sourceGUID: 0d03c11857e5ab242a008eb4515a1561
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Base/VisBaseControllerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Base/VisBaseModifierEditor.cs
+    sourceGUID: 1b2d7eccf6d52e84688a90dec5bf39c2
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Base/VisBaseModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Base/VisBasePropertyModifierEditor.cs
+    sourceGUID: b42283d6de5e1a140b59cd156ace36a1
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Base/VisBasePropertyModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Base/VisBasePropertyTriggerEditor.cs
+    sourceGUID: dd7e1928685f2c04f9c6ad8e03b5ca00
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Base/VisBasePropertyTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Base/VisBaseTriggerEditor.cs
+    sourceGUID: 00c95b1884fe7434e869472e18b9ea50
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Base/VisBaseTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Base/VisCommonEditor.cs
+    sourceGUID: e62f6ed4c1820444885798942bf463e9
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Base/VisCommonEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Base/VisManagerEditor.cs
+    sourceGUID: 6e9bd6fc1f9347243b4c555a3e3addc2
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Base/VisManagerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Controllers/VisFrequencyControllerEditor.cs
+    sourceGUID: 107a64bf5d0833548a2f6881aa98f830
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Controllers/VisFrequencyControllerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Controllers/VisRandomControllerEditor.cs
+    sourceGUID: 2752d4ba7c5c5204db95fc55a5088f87
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Controllers/VisRandomControllerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Controllers/VisSineWaveControllerEditor.cs
+    sourceGUID: a6ac8c0de1119f64b954cad5a7af8c91
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Controllers/VisSineWaveControllerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Data/VisDataGroupEditor.cs
+    sourceGUID: 75207eab1c0925543915c395947a209e
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Data/VisDataGroupEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Modifiers/VisAnimationStatePropertyModifierEditor.cs
+    sourceGUID: 5f02b3ceb4d325b4b9a0f5310c9d44a1
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Modifiers/VisAnimationStatePropertyModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Modifiers/VisEmitterPropertyModifierEditor.cs
+    sourceGUID: dff999943aadaaa429e170e4540d28c5
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Modifiers/VisEmitterPropertyModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Modifiers/VisGameObjectPropertyModifierEditor.cs
+    sourceGUID: 1a731f30463f4a346a4a0fbeb809bb99
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Modifiers/VisGameObjectPropertyModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Modifiers/VisLightPropertyModifierEditor.cs
+    sourceGUID: 3ffac303829562348898175ded1610c2
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Modifiers/VisLightPropertyModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Modifiers/VisMaterialLerpModifierEditor.cs
+    sourceGUID: 6f30dc61d67d03b4e8088471f8303906
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Modifiers/VisMaterialLerpModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Modifiers/VisMaterialPropertyModifierEditor.cs
+    sourceGUID: 8f236d97b4fe621478e9191da4148fed
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Modifiers/VisMaterialPropertyModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Modifiers/VisTargetModifierEditor.cs
+    sourceGUID: ccdd591b35641714b8f88e5d2eb2358d
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Modifiers/VisTargetModifierEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisAddForceTriggerEditor.cs
+    sourceGUID: b46e88c1275805944a095b1a9fd071f0
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisAddForceTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisAnimationStatePropertyTriggerEditor.cs
+    sourceGUID: 449de3e78d32153488765a97500248cf
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisAnimationStatePropertyTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisEmitParticlesTriggerEditor.cs
+    sourceGUID: 011b94fc900a0514db39e37c4d8ceea5
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisEmitParticlesTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisEmitterPropertyTriggerEditor.cs
+    sourceGUID: 96274e1583356024d88e4e0bf18bd840
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisEmitterPropertyTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisGameObjectPropertyTriggerEditor.cs
+    sourceGUID: 07470b1ee4001804a822e563834a29da
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisGameObjectPropertyTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisLightPropertyTriggerEditor.cs
+    sourceGUID: bbee51b164ad27042a9cf05f546de3ef
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisLightPropertyTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisMaterialLerpTriggerEditor.cs
+    sourceGUID: 2a7b8e848bd973c4fb92950676694ee9
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisMaterialLerpTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisMaterialPropertyTriggerEditor.cs
+    sourceGUID: 891c3b156de9c2741b2a573eca0e0dfb
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisMaterialPropertyTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisMessageTriggerEditor.cs
+    sourceGUID: 0ac76fbe89d246e468a69fbe3767b279
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisMessageTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisSpawnPrefabTriggerEditor.cs
+    sourceGUID: ce1ac9bbec255d24ea9fa778f0387c7c
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisSpawnPrefabTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Triggers/VisTargetTriggerEditor.cs
+    sourceGUID: d2f8282f546064b4884c4ee58a65370b
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Triggers/VisTargetTriggerEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Editor/Utility/VisMicrophoneEditor.cs
+    sourceGUID: f4ad10303a815514aa14cfb8eff08172
+    targetPath: Assets/Plugins/Editor/VisualizerStudio/Editor/Utility/VisMicrophoneEditor.cs
+  - sourcePath: Assets/VisualizerStudio/Example Level/FrameRateLimiter.cs
+    sourceGUID: 61cac4ba67826ff48bad3ca5321f74b8
+    targetPath: Assets/Plugins/VisualizerStudio/Example Level/FrameRateLimiter.cs
+  - sourcePath: Assets/VisualizerStudio/Example Level/KillTimer.cs
+    sourceGUID: f24cf0b0996c78b4da3d183237dcbf22
+    targetPath: Assets/Plugins/VisualizerStudio/Example Level/KillTimer.cs
+  - sourcePath: Assets/VisualizerStudio/Example Level/TestBallSpawnScalar.cs
+    sourceGUID: 54f6691e370d2664095fa2a2de7ed1f7
+    targetPath: Assets/Plugins/VisualizerStudio/Example Level/TestBallSpawnScalar.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Base/VisBaseController.cs
+    sourceGUID: b94671df47b748f4ba0fe5b3c99685d8
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Base/VisBaseController.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Base/VisBaseModifier.cs
+    sourceGUID: 04a07069ba67e444f921e7b4c6769f61
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Base/VisBaseModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Base/VisBasePropertyModifier.cs
+    sourceGUID: f4d42fc28ddcb0442ba12fa90be864cb
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Base/VisBasePropertyModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Base/VisBasePropertyTrigger.cs
+    sourceGUID: 7174d448ba766fd4a8677a5159838d5a
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Base/VisBasePropertyTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Base/VisBaseTrigger.cs
+    sourceGUID: 0cd09b0b2fa05774ebb96674d6fd6f97
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Base/VisBaseTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Controllers/VisFrequencyController.cs
+    sourceGUID: 420914e93707e014ab7e9ce5fb41c4d3
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Controllers/VisFrequencyController.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Controllers/VisRandomController.cs
+    sourceGUID: cace0ec41a8feb6488a82c047455f50a
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Controllers/VisRandomController.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Controllers/VisSineWaveController.cs
+    sourceGUID: d80b17227bfebfb47ae209fea99adfd6
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Controllers/VisSineWaveController.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Data/VisDataContainer.cs
+    sourceGUID: ca79385dac0470747a5754d65b47bbe6
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Data/VisDataContainer.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Data/VisDataGroup.cs
+    sourceGUID: 87679b3214a434143a11476d370a1540
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Data/VisDataGroup.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Data/VisSubDataGroup.cs
+    sourceGUID: 4b9e3b2c86c7c8041ae4e5cd4023b7ec
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Data/VisSubDataGroup.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Interfaces/IVisModifierTarget.cs
+    sourceGUID: 3adcac48bf6bd7a49b6784b72d24c61e
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Interfaces/IVisModifierTarget.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Interfaces/IVisPrefabSpawnedTarget.cs
+    sourceGUID: 99e25cad9b536674389452428a6c9911
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Interfaces/IVisPrefabSpawnedTarget.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Interfaces/IVisTriggerTarget.cs
+    sourceGUID: d614a63283617774db191bec3de65cb9
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Interfaces/IVisTriggerTarget.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Manager/VisManager.cs
+    sourceGUID: ab909c368a549bd41a52779b5bbd6577
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Manager/VisManager.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Modifiers/VisAnimationStatePropertyModifier.cs
+    sourceGUID: 2b3ab33ff0e90a44bb0da68e613fae2a
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Modifiers/VisAnimationStatePropertyModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Modifiers/VisEmitterPropertyModifier.cs
+    sourceGUID: 611c7698e8510de42ad83d8d32a5a25f
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Modifiers/VisEmitterPropertyModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Modifiers/VisGameObjectPropertyModifier.cs
+    sourceGUID: ba3c007179adc9249bde591757e606d1
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Modifiers/VisGameObjectPropertyModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Modifiers/VisLightPropertyModifier.cs
+    sourceGUID: c48e1f2f57c94cc4ab6b6d2c1042858d
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Modifiers/VisLightPropertyModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Modifiers/VisMaterialLerpModifier.cs
+    sourceGUID: 24bc0b94cca02204ca10bc1c01aa609d
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Modifiers/VisMaterialLerpModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Modifiers/VisMaterialPropertyModifier.cs
+    sourceGUID: d78b62a55a86f4b42bfb426051308f0b
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Modifiers/VisMaterialPropertyModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Modifiers/VisTargetModifier.cs
+    sourceGUID: 02ae7ace520abad46bddf610b3bd7f58
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Modifiers/VisTargetModifier.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisAddForceTrigger.cs
+    sourceGUID: 683cbda98f55a18429b270a183bee0a0
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisAddForceTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisAnimationStatePropertyTrigger.cs
+    sourceGUID: 0aaa420ada6b68d4c88c26f69e689748
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisAnimationStatePropertyTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisEmitParticlesTrigger.cs
+    sourceGUID: fd52097478b41d443a55a8b0915cb585
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisEmitParticlesTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisEmitterPropertyTrigger.cs
+    sourceGUID: 591ca07c74a6f6542a9bd55a6d4c1e87
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisEmitterPropertyTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisGameObjectPropertyTrigger.cs
+    sourceGUID: ed82f6f000c92a74280c604ea2585f36
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisGameObjectPropertyTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisLightPropertyTrigger.cs
+    sourceGUID: 6dec85a77531309488aab1719d0fb8da
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisLightPropertyTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisMaterialLerpTrigger.cs
+    sourceGUID: 3d217586832b9fa43af1e068d1d067ee
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisMaterialLerpTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisMaterialPropertyTrigger.cs
+    sourceGUID: 28fd6efb05705054aaf7fa4f5ddd71b3
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisMaterialPropertyTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisMessageTrigger.cs
+    sourceGUID: bc95d890b4b2a51429cfd8f724824923
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisMessageTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisSpawnPrefabTrigger.cs
+    sourceGUID: 434976db1e655fd4eaace89374b4925f
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisSpawnPrefabTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Triggers/VisTargetTrigger.cs
+    sourceGUID: b7cfed2e55afb2b4d9cd0a184f833b9c
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Triggers/VisTargetTrigger.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Utility/VisHelper.cs
+    sourceGUID: 65452f5d219b4764e8aef554fbf5c3b1
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Utility/VisHelper.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Utility/VisMicrophone.cs
+    sourceGUID: 7138d00449b189241bd9ea73b1c1ae3b
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Utility/VisMicrophone.cs
+  - sourcePath: Assets/VisualizerStudio/Scripts/Utility/VisPropertyHelper.cs
+    sourceGUID: 3677c3285f8430548890d7d6f1532ea0
+    targetPath: Assets/Plugins/VisualizerStudio/Scripts/Utility/VisPropertyHelper.cs
+  forRemoval: 0
+  forRemovalDeleteEmptyDirs: 0
+  persistent: 1
